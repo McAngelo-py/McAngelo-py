@@ -33,15 +33,6 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=McAngelo-py&show_icons=true&theme=dracula&title_color=77dd77&icon_color=77dd77&text_color=ffffff&bg_color=1c1c1c&hide_border=true" alt="McAngelo's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAngelo-py&layout=compact&theme=dracula&title_color=77dd77&icon_color=77dd77&text_color=ffffff&bg_color=1c1c1c&hide_border=true" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=McAngelo-py&theme=dracula&fire=77dd77&ring=77dd77&currStreakLabel=77dd77&background=1c1c1c&dates=ffffff&sideLabels=ffffff&sideNums=ffffff&stroke=77dd77&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
