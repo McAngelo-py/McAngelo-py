@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=green&height=200&section=header&text=Hey,%20I'm%20McAngelo%20👋&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=77dd77&height=200&section=header&text=Hey,%20I'm%20McAngelo%20👋&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
   **Full-Stack Developer • Python Enthusiast • Automation Builder**
 
@@ -11,7 +11,7 @@
     <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
 
-  ![](https://komarev.com/ghpvc/?username=McAngelo-py&color=blueviolet&style=flat-square&label=VISITORS)
+  ![](https://komarev.com/ghpvc/?username=McAngelo-py&color=77dd77&style=flat-square&label=PROFILE+VIEWS)
 </div>
 
 ---
@@ -36,21 +36,11 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=McAngelo-py&show_icons=true&theme=dracula&hide_border=false&count_private=true" width="100%" alt="McAngelo's GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAngelo-py&layout=compact&theme=dracula&hide_border=false" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=McAngelo-py&theme=dracula&hide_border=false" width="100%" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=McAngelo-py&show_icons=true&theme=react&hide_border=false&count_private=true&title_color=77dd77&icon_color=77dd77&text_color=ffffff&bg_color=1c1c1c" alt="McAngelo's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAngelo-py&layout=compact&theme=react&hide_border=false&title_color=77dd77&icon_color=77dd77&text_color=ffffff&bg_color=1c1c1c" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=McAngelo-py&theme=react&hide_border=false&currStreakNum=77dd77&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&ring=77dd77&fire=77dd77&stroke=77dd77&background=1c1c1c" alt="GitHub Streak" />
 </div>
 
 ---
