@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=77dd77&height=200&section=header&text=Hey,%20I'm%20McAngelo%20👋&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  **React & Python Developer · QA-Minded · Automation Builder**
+  **Full-Stack Developer • Python Enthusiast • Automation Builder**
 
   *Turning complex ideas into simple, working software.*
 
@@ -36,11 +36,11 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=McAngelo-py&show_icons=true&theme=react&hide_border=false&count_private=true&title_color=77dd77&icon_color=77dd77&text_color=ffffff&bg_color=1c1c1c" alt="McAngelo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=McAngelo-py&show_icons=true&theme=dracula&title_color=77dd77&icon_color=77dd77&text_color=ffffff&bg_color=1c1c1c&hide_border=true" alt="McAngelo's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAngelo-py&layout=compact&theme=react&hide_border=false&title_color=77dd77&icon_color=77dd77&text_color=ffffff&bg_color=1c1c1c" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAngelo-py&layout=compact&theme=dracula&title_color=77dd77&icon_color=77dd77&text_color=ffffff&bg_color=1c1c1c&hide_border=true" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=McAngelo-py&theme=react&hide_border=false&currStreakNum=77dd77&sideLabels=ffffff&sideNums=ffffff&dates=ffffff&ring=77dd77&fire=77dd77&stroke=77dd77&background=1c1c1c" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=McAngelo-py&theme=dracula&fire=77dd77&ring=77dd77&currStreakLabel=77dd77&background=1c1c1c&dates=ffffff&sideLabels=ffffff&sideNums=ffffff&stroke=77dd77&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
