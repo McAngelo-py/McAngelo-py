@@ -1,63 +1,79 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey,%20I'm%20McAngelo%20👋&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
-# hey, I'm McAngelo 👋
+  **Full-Stack Developer • Python Enthusiast • Automation Builder**
 
-**Full-Stack Developer · Python Enthusiast · Builder of Things**
+  *Turning complex ideas into simple, working software.*
 
-*Turning ideas into working software — one commit at a time.*
+  <p align="center">
+    <a href="https://www.facebook.com/profile.php?id=100089584625398"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+    <a href="https://www.instagram.com/mcangelo_ig/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  </p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089584625398)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mcangelo_ig/)
-
+  ![](https://komarev.com/ghpvc/?username=McAngelo-py&color=blueviolet&style=flat-square&label=VISITORS)
 </div>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently building tools with **Python** and **JavaScript**
-- 🌱 Always learning — currently exploring **APIs, automation & web development**
-- 💡 I enjoy building practical tools that solve real problems
-- 🇵🇭 Based in the Philippines
+- 🔭 **Currently building**: Automation tools and web applications using **Python** and **JavaScript**.
+- 🌱 **Learning**: Deep diving into **Cloud Computing, Scalable APIs, and Advanced Web Dev**.
+- 💡 **Passion**: I love creating practical tools that automate boring tasks and solve real-world problems.
+- 🇵🇭 **Location**: Based in the Philippines.
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/discord.py-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord.py" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,git,vscode,discord,react,tailwind,nodejs,mysql,mongodb&perline=6" />
+</div>
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=McAngelo-py&show_icons=true&theme=dracula&hide_border=false&count_private=true" width="100%" alt="McAngelo's GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAngelo-py&layout=compact&theme=dracula&hide_border=false" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=McAngelo-py&theme=dracula&hide_border=false" width="100%" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ### 📌 Featured Projects
 
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| [📸 Aziel's PhotoBooth](https://github.com/McAngelo-py/Aziel-s-PhotoBooth) | A fun, browser-based photo booth app | JavaScript |
-| [🎱 Magic 8 Discord Bot](https://github.com/McAngelo-py/magic-8-bot-dcbot) | Ask the magic 8-ball anything — as a Discord bot | Python |
-| [🏫 TESDA LLDA Training Center](https://github.com/McAngelo-py/tesda-llda-training-center) | Training center web page | HTML/CSS |
-| [🪪 TESDA ID Generator](https://github.com/McAngelo-py/TESDA_ID_GENERATOR) | Automates ID generation for TESDA | Python |
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=McAngelo-py&show_icons=true&theme=tokyonight&hide_border=true" alt="McAngelo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=McAngelo-py&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[📸 Aziel's PhotoBooth](https://github.com/McAngelo-py/Aziel-s-PhotoBooth)** | A modern, browser-based photo booth application. | `JavaScript` `HTML/CSS` |
+| **[🎱 Magic 8 Discord Bot](https://github.com/McAngelo-py/magic-8-bot-dcbot)** | Interactive Discord bot for fun predictions. | `Python` `Discord.py` |
+| **[🏫 Training Center Web](https://github.com/McAngelo-py/tesda-llda-training-center)** | Professional landing page for a training center. | `HTML5` `CSS3` |
+| **[🪪 TESDA ID Generator](https://github.com/McAngelo-py/TESDA_ID_GENERATOR)** | Automated tool for generating official IDs. | `Python` `OpenCV` |
+
 </div>
 
 ---
 
 <div align="center">
 
-*Thanks for stopping by! Feel free to explore my repos and reach out.* 🙌
+*“The best way to predict the future is to invent it.”*
+
+**Let's build something amazing together!** 🚀
 
 </div>
